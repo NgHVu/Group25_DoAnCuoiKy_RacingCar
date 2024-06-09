@@ -1,0 +1,12 @@
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\bin\Debug\RacingCar Client.exe.config
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\bin\Debug\RacingCar Client.exe
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\bin\Debug\RacingCar Client.pdb
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar Client.csproj.AssemblyReference.cache
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar_Client.ConnectRoom.resources
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar_Client.GamePlay.resources
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar_Client.Properties.Resources.resources
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar Client.csproj.GenerateResource.cache
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar Client.csproj.CoreCompileInputs.cache
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar Client.exe
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar Client.pdb
+C:\UIT\Lặp trình mạng\Project RacingCar\RacingCar Client\obj\Debug\RacingCar_Client.Lobby.resources
